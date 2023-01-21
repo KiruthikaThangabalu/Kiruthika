@@ -24,7 +24,7 @@ public class SureFireCode {
    //4.Convert to testng.xml file
    //5.Right click pom.xml file and click run as and maven clean see o/p build sucess
    //6.Project right click run as maven install and get output
-		 
+	//Testing	 
 		 
 }
 	}
